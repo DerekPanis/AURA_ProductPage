@@ -28,8 +28,8 @@ A responsive landing page for a smartwatch concept called AURA.
 
 ## Live Site
 
-(Add GitHub Pages link here)
+
 
 ## Repository
 
-(Add GitHub repo link here)
+https://github.com/DerekPanis/AURA_ProductPage/edit/main/README.md
