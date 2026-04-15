@@ -1,3 +1,23 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg:          #06030f;
+  --surface:     #0c0818;
+  --surface2:    #130d22;
+  --border:      rgba(167, 139, 250, 0.1);
+  --border-glow: rgba(167, 139, 250, 0.35);
+  --accent:      #a78bfa;
+  --accent2:     #c4b5fd;
+  --accent3:     #7c3aed;
+  --text:        #ede9fe;
+  --muted:       #7c6fa0;
+  --card-bg:     rgba(167, 139, 250, 0.04);
+}
+
 html { scroll-behavior: smooth; }
 
 body {
